@@ -1,9 +1,9 @@
 {
     "users": [
-        {"id": 1, "name": "Amit", "friends": [2, 3], "liked_pages": [101]},
-        {"id": 2, "name": "Priya", "friends": [1, 4], "liked_pages": [102]},
-        {"id": 3, "name": "Rahul", "friends": [1], "liked_pages": [101, 103]},
-        {"id": 4, "name": "Sara", "friends": [2], "liked_pages": [104]}
+        {"id": 1, "name": "Aryan", "friends": [2, 3], "liked_pages": [101]},
+        {"id": 2, "name": "divya", "friends": [1, 4], "liked_pages": [102]},
+        {"id": 3, "name": "priyanshu", "friends": [1], "liked_pages": [101, 103]},
+        {"id": 4, "name": "jara", "friends": [2], "liked_pages": [104]}
     ],
     "pages": [
         {"id": 101, "name": "Python Developers"},
